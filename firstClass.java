@@ -62,3 +62,47 @@
 //         System.out.println(var3);
 //     }
 // }
+
+// Wap to find odd and even
+
+// import java.util.*;
+
+// public class firstClass {
+//     public static void main(String args[]){
+//         Scanner sc =new Scanner(System.in);
+//         int Number = sc.nextInt();
+
+//         if(Number % 2 == 0){
+//             System.out.print("Even");
+//         }
+//         else{
+//             System.out.print("Odd");
+//         }
+//     }
+// }\
+
+
+// wap to compare two number by taking input from user 
+
+
+// import java.util.*;
+
+// public class firstClass{
+//     public static void main (String args[]){
+//         Scanner sc = new Scanner(System.in);
+//         System.out.print("Enter first number:");
+//         int numOne = sc.nextInt();
+//         System.out.print("Enter Second number:");
+//         int numTwo = sc.nextInt();
+
+//         if(numOne==numTwo){
+//             System.out.println("Both number is equal");
+//         }
+//         else if(numOne>numTwo){
+//             System.out.println(numOne + " Is greater than" + numTwo);
+//         }
+//         else{
+//             System.out.println(numTwo + " Is Greater");
+//         }
+//     }
+// }
